@@ -158,19 +158,6 @@ The project also required configuring a consistent robotics development environm
 
 ---
 
-## Future Roadmap
-
-- [ ] Complete robot model and visualization.
-- [ ] Integrate Gazebo simulation.
-- [ ] Implement autonomous path planning.
-- [ ] Integrate ROS 2 Navigation (Nav2).
-- [ ] Develop obstacle detection and avoidance.
-- [ ] Implement goal-based navigation.
-- [ ] Develop a monitoring and visualization interface.
-- [ ] Evaluate navigation performance in simulation.
-
----
-
 ## Author
 
 **Sohini Ghosh**
